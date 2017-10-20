@@ -1,0 +1,1 @@
+keytool -keystore clientkeystore -genkey -alias client

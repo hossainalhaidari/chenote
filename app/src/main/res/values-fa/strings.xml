@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CheNote</string>
+    <string name="app_ver">v0.1</string>
+    <string name="title_activity_view_note">نمایش نوت</string>
+    <string name="title_activity_about">درباره</string>
+    <string name="delete_note">حذف</string>
+    <string name="save_note">ذخیره</string>
+    <string name="share_note">اشتراک گذاری</string>
+    <string name="enter_text">تایپ کنید...</string>
+    <string name="select">انتخاب</string>
+    <string name="share_via">اشتراک گذاری با</string>
+    <string name="about">درباره</string>
+    <string name="about_text">A dead-simple note taking app.</string>
+    <string name="about_developer">توسعه دهندگان:\n- حسین حیدری\n- سعید حکمت نیا\n- ایمان شاملی</string>
+    <string name="website">http://www.chenarstudio.ir</string>
+    <string name="ok">تایید</string>
+    <string name="cancel">انصراف</string>
+    <string name="wrong_pass">رمز عبور اشتباه است!</string>
+    <string name="title_activity_login">ورود</string>
+    <string name="login">ورود</string>
+    <string name="enter_password">رمز عبور را وارد کنید:</string>
+</resources>

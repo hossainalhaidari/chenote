@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CheNote</string>
+    <string name="app_ver">v0.1</string>
+    <string name="title_activity_view_note">View Note</string>
+    <string name="title_activity_about">About</string>
+    <string name="delete_note">Delete</string>
+    <string name="save_note">Save</string>
+    <string name="share_note">Share</string>
+    <string name="enter_text">Enter text...</string>
+    <string name="select">Select</string>
+    <string name="share_via">Share via</string>
+    <string name="about">About</string>
+    <string name="about_text">A dead-simple note taking app.</string>
+    <string name="about_developer">Developers:\n- Hossain Alhaidari\n- Saeed Hekmatnia\n- Iman Shameli</string>
+    <string name="website">http://www.chenarstudio.ir</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="wrong_pass">Wrong Password!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password:</string>
+</resources>
